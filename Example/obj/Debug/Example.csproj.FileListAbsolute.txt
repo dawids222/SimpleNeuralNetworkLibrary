@@ -1,0 +1,8 @@
+E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\Example\bin\Debug\Example.exe.config
+E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\Example\bin\Debug\Example.exe
+E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\Example\bin\Debug\Example.pdb
+E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\Example\bin\Debug\SimpleNeuralNetwork.dll
+E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\Example\bin\Debug\SimpleNeuralNetwork.pdb
+E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\Example\obj\Debug\Example.exe
+E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\Example\obj\Debug\Example.pdb

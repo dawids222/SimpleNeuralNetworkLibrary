@@ -1,0 +1,5 @@
+E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\SimpleNeuralNetwork\bin\Release\SimpleNeuralNetwork.dll
+E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\SimpleNeuralNetwork\bin\Release\SimpleNeuralNetwork.pdb
+E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\SimpleNeuralNetwork\obj\Release\SimpleNeuralNetwork.csprojResolveAssemblyReference.cache
+E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\SimpleNeuralNetwork\obj\Release\SimpleNeuralNetwork.dll
+E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\SimpleNeuralNetwork\obj\Release\SimpleNeuralNetwork.pdb
