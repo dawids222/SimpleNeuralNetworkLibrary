@@ -8,9 +8,9 @@ using System.Threading.Tasks;
 
 namespace SimpleNeuralNetwork.Model.Helper
 {
-    public static class LearningDataHelper
+    public static class DataSetHelper
     {
-        public static List<DataSet> GetDatasets(string learningFileName, char delimiter, int inputCount, int targetCount)
+        public static List<DataSet> GetDatasetsFromFile(string learningFileName, char delimiter, int inputCount, int targetCount)
         {
             var result = new List<DataSet>();
 
@@ -42,6 +42,37 @@ namespace SimpleNeuralNetwork.Model.Helper
             }
 
             return result;
+        }
+
+        public static void SaveDatasetsToFile(List<DataSet> datasets, string filename, char delimiter)
+        {
+            using (var writer = File.AppendText(filename))
+            {
+                foreach (var dataset in datasets)
+                {
+                    writer.WriteLine(CreateDatalineFromDataset(dataset, delimiter));
+                }
+            }
+        }
+
+        public static string CreateDatalineFromDataset(DataSet dataset, char delimiter)
+        {
+            var line = string.Empty;
+
+            foreach (var value in dataset.Values)
+            {
+                line += value;
+                line += delimiter;
+            }
+
+            for (int i = 0; i < dataset.Targets.Length; i++)
+            {
+                line += dataset.Targets[i];
+                if (i < dataset.Targets.Length - 1)
+                    line += delimiter;
+            }
+
+            return line;
         }
     }
 }

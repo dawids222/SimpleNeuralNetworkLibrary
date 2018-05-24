@@ -43,7 +43,7 @@ namespace Example
 
         static void TrainNetwork()
         {
-            network.Train(LearningDataHelper.GetDatasets(learningFileName, learningFileDelimiter, network.InputLayer.Count, network.OutputLayer.Count), minimumError: 0.06f);
+            network.Train(DataSetHelper.GetDatasetsFromFile(learningFileName, learningFileDelimiter, network.InputLayer.Count, network.OutputLayer.Count), minimumError: 0.06f);
         }
 
         static void SaveNetwork()

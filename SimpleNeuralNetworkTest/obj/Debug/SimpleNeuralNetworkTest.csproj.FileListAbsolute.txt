@@ -1,0 +1,9 @@
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetworkTest\bin\Debug\SimpleNeuralNetworkTest.dll
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetworkTest\bin\Debug\SimpleNeuralNetworkTest.pdb
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetworkTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetworkTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetworkTest\obj\Debug\SimpleNeuralNetworkTest.csprojResolveAssemblyReference.cache
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetworkTest\obj\Debug\SimpleNeuralNetworkTest.dll
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetworkTest\obj\Debug\SimpleNeuralNetworkTest.pdb
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetworkTest\bin\Debug\SimpleNeuralNetwork.dll
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetworkTest\bin\Debug\SimpleNeuralNetwork.pdb

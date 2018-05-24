@@ -3,3 +3,8 @@ E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\SimpleNeuralNetwork\bin\Debug
 E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\SimpleNeuralNetwork\bin\Debug\SimpleNeuralNetwork.pdb
 E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\SimpleNeuralNetwork\obj\Debug\SimpleNeuralNetwork.dll
 E:\David\Programowanie\VS 2015\SimpleNeuralNetwork\SimpleNeuralNetwork\obj\Debug\SimpleNeuralNetwork.pdb
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetwork\bin\Debug\SimpleNeuralNetwork.dll
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetwork\bin\Debug\SimpleNeuralNetwork.pdb
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetwork\obj\Debug\SimpleNeuralNetwork.csprojResolveAssemblyReference.cache
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetwork\obj\Debug\SimpleNeuralNetwork.dll
+E:\David\Programowanie\VS 2015\Simple_Neural_Network\SimpleNeuralNetwork\obj\Debug\SimpleNeuralNetwork.pdb

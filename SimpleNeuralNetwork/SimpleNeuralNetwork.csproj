@@ -43,7 +43,7 @@
     <Compile Include="Model\Helper\ExportHelper.cs" />
     <Compile Include="Model\Helper\HelperNetwork.cs" />
     <Compile Include="Model\Helper\ImportHelper.cs" />
-    <Compile Include="Model\Helper\LearningDataHelper.cs" />
+    <Compile Include="Model\Helper\DataSetHelper.cs" />
     <Compile Include="Model\Logger\ConsoleAndFileLogger.cs" />
     <Compile Include="Model\Logger\ConsoleLogger.cs" />
     <Compile Include="Model\Logger\FileLogger.cs" />
